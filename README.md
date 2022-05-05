@@ -6,7 +6,8 @@ REST API for common acronyms.
 ## Endpoints:
 
 GET /acronym?page=1&limit=10&search=:search
-  - returns a list of acronyms, pagination using query parameters ○ response headers indicate if there are more results
+  - returns a list of acronyms, pagination using query parameters 
+  - response headers indicate if there are more results
   - returns all acronyms that fuzzy match against :search
   
 POST /acronym
