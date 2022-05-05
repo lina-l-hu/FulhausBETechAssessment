@@ -1,6 +1,6 @@
 # FulhausBETechAssessment
 
-REST API for common acronyms, built with Node.js/Express. 
+REST API for common acronyms, built with Node.js/Express. Data is stored in MongoDB.
 
 
 ## Endpoints:
