@@ -22,7 +22,7 @@ DELETE /acronym/:acronymID
 
 ## Available Scripts
 
-In the server directory, you can run:
+In the server directory, run 
 
 ### `yarn start`
 
