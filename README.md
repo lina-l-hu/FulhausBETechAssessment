@@ -1,6 +1,6 @@
 # FulhausBETechAssessment
 
-REST API for common acronyms.
+REST API for common acronyms, built with Node.js/Express. 
 
 
 ## Endpoints:
