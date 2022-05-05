@@ -34,7 +34,6 @@ to start the server in the development mode at [http://localhost:8000](http://lo
 ├── server
 │   ├── data
 │   │   ├── data.json
-│   ├── node_modules
 │   ├── batchImport.js
 │   ├── handlers.js
 │   ├── index.js
