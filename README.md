@@ -26,7 +26,7 @@ In the server directory, run
 
 ### `yarn start`
 
-Runs the server in the development mode at [http://localhost:8000](http://localhost:8000).
+to start the server in the development mode at [http://localhost:8000](http://localhost:8000).
 
 
 ## File Structure
